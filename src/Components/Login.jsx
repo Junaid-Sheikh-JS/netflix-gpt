@@ -5,7 +5,7 @@ const Login = () => {
   return (
     <>
       <section className="relative h-[100vh] bg-white bg-[url('https://assets.nflxext.com/ffe/siteui/vlv3/fb5cb900-0cb6-4728-beb5-579b9af98fdd/web/PK-en-20250127-TRIFECTA-perspective_217df22c-add3-44dc-859a-686d5f6f5026_large.jpg')] bg-cover bg-center">
-        <div className="absolute  bg-black w-full h-[100%] opacity-50"></div>
+        <div className="absolute  bg-black w-full h-[100%] opacity-60"></div>
         <Header />
         <div className="relative bg-[#000000ab] max-w-sm mx-auto p-10 ">
           <h1 className="text-white  font-bold text-3xl"> Sign In </h1>
